@@ -1,0 +1,14 @@
+{
+  "appId": "com.berats-ionic-angular-project",
+  "appName": "ionic-angular-course",
+  "linuxAndroidStudioPath": "/home/berat/android-studio/bin/studio.sh",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
